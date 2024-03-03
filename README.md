@@ -28,6 +28,8 @@ Theme: Creator Expert
 Number of Bricks: 1334
 
 ...
+
+```
 ## Why LEGO Set Manager Pro?
 LEGO Set Manager Pro offers a professional-grade solution for managing your LEGO collection. Whether you're a seasoned collector or a casual enthusiast, this program streamlines the organization process and enhances your LEGO experience.
 
